@@ -1,1 +1,1 @@
-# -Pattern-2
+# *Pattern-2
